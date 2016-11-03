@@ -1,3 +1,8 @@
+<!--
+	can be access at /classifieds/
+	
+
+-->
 <?php /* Start loop */ ?>
 <div class="row">
 	<div class="small-3 columns" id="classified-categories">
